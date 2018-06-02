@@ -1,0 +1,7 @@
+C:\Projects\Algorithms\Dynaming Programing\Lab\SubSet Sum\SubSet Sum\bin\Debug\SubSet Sum.exe.config
+C:\Projects\Algorithms\Dynaming Programing\Lab\SubSet Sum\SubSet Sum\bin\Debug\SubSet Sum.exe
+C:\Projects\Algorithms\Dynaming Programing\Lab\SubSet Sum\SubSet Sum\bin\Debug\SubSet Sum.pdb
+C:\Projects\Algorithms\Dynaming Programing\Lab\SubSet Sum\SubSet Sum\obj\Debug\SubSet Sum.csprojResolveAssemblyReference.cache
+C:\Projects\Algorithms\Dynaming Programing\Lab\SubSet Sum\SubSet Sum\obj\Debug\SubSet Sum.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Dynaming Programing\Lab\SubSet Sum\SubSet Sum\obj\Debug\SubSet Sum.exe
+C:\Projects\Algorithms\Dynaming Programing\Lab\SubSet Sum\SubSet Sum\obj\Debug\SubSet Sum.pdb

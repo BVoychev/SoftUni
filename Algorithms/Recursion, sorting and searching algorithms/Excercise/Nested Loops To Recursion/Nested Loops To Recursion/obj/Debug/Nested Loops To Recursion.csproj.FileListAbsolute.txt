@@ -1,0 +1,7 @@
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Excercise\Nested Loops To Recursion\Nested Loops To Recursion\bin\Debug\Nested Loops To Recursion.exe.config
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Excercise\Nested Loops To Recursion\Nested Loops To Recursion\bin\Debug\Nested Loops To Recursion.exe
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Excercise\Nested Loops To Recursion\Nested Loops To Recursion\bin\Debug\Nested Loops To Recursion.pdb
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Excercise\Nested Loops To Recursion\Nested Loops To Recursion\obj\Debug\Nested Loops To Recursion.csprojResolveAssemblyReference.cache
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Excercise\Nested Loops To Recursion\Nested Loops To Recursion\obj\Debug\Nested Loops To Recursion.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Excercise\Nested Loops To Recursion\Nested Loops To Recursion\obj\Debug\Nested Loops To Recursion.exe
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Excercise\Nested Loops To Recursion\Nested Loops To Recursion\obj\Debug\Nested Loops To Recursion.pdb

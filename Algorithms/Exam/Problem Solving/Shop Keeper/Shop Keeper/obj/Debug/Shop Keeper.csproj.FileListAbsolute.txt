@@ -1,0 +1,7 @@
+C:\Projects\Algorithms\Exam\Problem Solving\Shop Keeper\Shop Keeper\bin\Debug\Shop Keeper.exe.config
+C:\Projects\Algorithms\Exam\Problem Solving\Shop Keeper\Shop Keeper\bin\Debug\Shop Keeper.exe
+C:\Projects\Algorithms\Exam\Problem Solving\Shop Keeper\Shop Keeper\bin\Debug\Shop Keeper.pdb
+C:\Projects\Algorithms\Exam\Problem Solving\Shop Keeper\Shop Keeper\obj\Debug\Shop Keeper.csprojResolveAssemblyReference.cache
+C:\Projects\Algorithms\Exam\Problem Solving\Shop Keeper\Shop Keeper\obj\Debug\Shop Keeper.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Exam\Problem Solving\Shop Keeper\Shop Keeper\obj\Debug\Shop Keeper.exe
+C:\Projects\Algorithms\Exam\Problem Solving\Shop Keeper\Shop Keeper\obj\Debug\Shop Keeper.pdb

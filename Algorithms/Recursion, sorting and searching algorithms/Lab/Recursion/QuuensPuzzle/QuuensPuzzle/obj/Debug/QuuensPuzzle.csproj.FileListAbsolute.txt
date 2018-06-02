@@ -1,0 +1,7 @@
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Lab\Recursion\QuuensPuzzle\QuuensPuzzle\bin\Debug\QuuensPuzzle.exe.config
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Lab\Recursion\QuuensPuzzle\QuuensPuzzle\bin\Debug\QuuensPuzzle.exe
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Lab\Recursion\QuuensPuzzle\QuuensPuzzle\bin\Debug\QuuensPuzzle.pdb
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Lab\Recursion\QuuensPuzzle\QuuensPuzzle\obj\Debug\QuuensPuzzle.csprojResolveAssemblyReference.cache
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Lab\Recursion\QuuensPuzzle\QuuensPuzzle\obj\Debug\QuuensPuzzle.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Lab\Recursion\QuuensPuzzle\QuuensPuzzle\obj\Debug\QuuensPuzzle.exe
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Lab\Recursion\QuuensPuzzle\QuuensPuzzle\obj\Debug\QuuensPuzzle.pdb

@@ -1,0 +1,7 @@
+C:\Projects\Algorithms\Exam\Problem Solving\ShortestPathinMatrix\ShortestPathinMatrix\bin\Debug\ShortestPathinMatrix.exe.config
+C:\Projects\Algorithms\Exam\Problem Solving\ShortestPathinMatrix\ShortestPathinMatrix\bin\Debug\ShortestPathinMatrix.exe
+C:\Projects\Algorithms\Exam\Problem Solving\ShortestPathinMatrix\ShortestPathinMatrix\bin\Debug\ShortestPathinMatrix.pdb
+C:\Projects\Algorithms\Exam\Problem Solving\ShortestPathinMatrix\ShortestPathinMatrix\obj\Debug\ShortestPathinMatrix.csprojResolveAssemblyReference.cache
+C:\Projects\Algorithms\Exam\Problem Solving\ShortestPathinMatrix\ShortestPathinMatrix\obj\Debug\ShortestPathinMatrix.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Exam\Problem Solving\ShortestPathinMatrix\ShortestPathinMatrix\obj\Debug\ShortestPathinMatrix.exe
+C:\Projects\Algorithms\Exam\Problem Solving\ShortestPathinMatrix\ShortestPathinMatrix\obj\Debug\ShortestPathinMatrix.pdb

@@ -1,0 +1,6 @@
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\SortExcercise\Inversion Count\Inversion Count\bin\Debug\Inversion Count.exe.config
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\SortExcercise\Inversion Count\Inversion Count\bin\Debug\Inversion Count.exe
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\SortExcercise\Inversion Count\Inversion Count\bin\Debug\Inversion Count.pdb
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\SortExcercise\Inversion Count\Inversion Count\obj\Debug\Inversion Count.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\SortExcercise\Inversion Count\Inversion Count\obj\Debug\Inversion Count.exe
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\SortExcercise\Inversion Count\Inversion Count\obj\Debug\Inversion Count.pdb

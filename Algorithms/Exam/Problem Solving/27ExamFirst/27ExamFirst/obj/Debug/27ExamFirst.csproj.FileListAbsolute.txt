@@ -1,0 +1,7 @@
+C:\Projects\Algorithms\Exam\Problem Solving\27ExamFirst\27ExamFirst\bin\Debug\27ExamFirst.exe.config
+C:\Projects\Algorithms\Exam\Problem Solving\27ExamFirst\27ExamFirst\bin\Debug\27ExamFirst.exe
+C:\Projects\Algorithms\Exam\Problem Solving\27ExamFirst\27ExamFirst\bin\Debug\27ExamFirst.pdb
+C:\Projects\Algorithms\Exam\Problem Solving\27ExamFirst\27ExamFirst\obj\Debug\27ExamFirst.csprojResolveAssemblyReference.cache
+C:\Projects\Algorithms\Exam\Problem Solving\27ExamFirst\27ExamFirst\obj\Debug\27ExamFirst.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Exam\Problem Solving\27ExamFirst\27ExamFirst\obj\Debug\27ExamFirst.exe
+C:\Projects\Algorithms\Exam\Problem Solving\27ExamFirst\27ExamFirst\obj\Debug\27ExamFirst.pdb

@@ -1,0 +1,10 @@
+C:\Projects\Algorithms\Graphs\GraphSkeletsFirstLab\Graphs\01. Connected-Components.Tests\bin\Debug\_01.Connected_Components.Tests.dll
+C:\Projects\Algorithms\Graphs\GraphSkeletsFirstLab\Graphs\01. Connected-Components.Tests\bin\Debug\_01.Connected_Components.Tests.pdb
+C:\Projects\Algorithms\Graphs\GraphSkeletsFirstLab\Graphs\01. Connected-Components.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Projects\Algorithms\Graphs\GraphSkeletsFirstLab\Graphs\01. Connected-Components.Tests\bin\Debug\_01.Connected_Components.exe
+C:\Projects\Algorithms\Graphs\GraphSkeletsFirstLab\Graphs\01. Connected-Components.Tests\bin\Debug\_01.Connected_Components.pdb
+C:\Projects\Algorithms\Graphs\GraphSkeletsFirstLab\Graphs\01. Connected-Components.Tests\bin\Debug\_01.Connected_Components.exe.config
+C:\Projects\Algorithms\Graphs\GraphSkeletsFirstLab\Graphs\01. Connected-Components.Tests\obj\Debug\01. Connected-Components.Tests.csprojResolveAssemblyReference.cache
+C:\Projects\Algorithms\Graphs\GraphSkeletsFirstLab\Graphs\01. Connected-Components.Tests\obj\Debug\01. Connected-Components.Tests.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Graphs\GraphSkeletsFirstLab\Graphs\01. Connected-Components.Tests\obj\Debug\_01.Connected_Components.Tests.dll
+C:\Projects\Algorithms\Graphs\GraphSkeletsFirstLab\Graphs\01. Connected-Components.Tests\obj\Debug\_01.Connected_Components.Tests.pdb

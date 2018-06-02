@@ -1,0 +1,7 @@
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\SortExcercise\MergeSort\MergeSort\obj\Debug\MergeSort.csprojResolveAssemblyReference.cache
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\SortExcercise\MergeSort\MergeSort\obj\Debug\MergeSort.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\SortExcercise\MergeSort\MergeSort\bin\Debug\MergeSort.exe.config
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\SortExcercise\MergeSort\MergeSort\bin\Debug\MergeSort.exe
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\SortExcercise\MergeSort\MergeSort\bin\Debug\MergeSort.pdb
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\SortExcercise\MergeSort\MergeSort\obj\Debug\MergeSort.exe
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\SortExcercise\MergeSort\MergeSort\obj\Debug\MergeSort.pdb

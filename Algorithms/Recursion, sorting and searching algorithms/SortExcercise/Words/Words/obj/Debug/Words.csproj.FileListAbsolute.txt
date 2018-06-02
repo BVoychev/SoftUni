@@ -1,0 +1,7 @@
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\SortExcercise\Words\Words\bin\Debug\Words.exe.config
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\SortExcercise\Words\Words\bin\Debug\Words.exe
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\SortExcercise\Words\Words\bin\Debug\Words.pdb
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\SortExcercise\Words\Words\obj\Debug\Words.csprojResolveAssemblyReference.cache
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\SortExcercise\Words\Words\obj\Debug\Words.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\SortExcercise\Words\Words\obj\Debug\Words.exe
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\SortExcercise\Words\Words\obj\Debug\Words.pdb

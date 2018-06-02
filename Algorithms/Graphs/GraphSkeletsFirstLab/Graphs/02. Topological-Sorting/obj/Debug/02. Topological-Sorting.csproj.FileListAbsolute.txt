@@ -1,0 +1,7 @@
+C:\Projects\Algorithms\Graphs\GraphSkeletsFirstLab\Graphs\02. Topological-Sorting\bin\Debug\_02.Topological_Sorting.exe.config
+C:\Projects\Algorithms\Graphs\GraphSkeletsFirstLab\Graphs\02. Topological-Sorting\bin\Debug\_02.Topological_Sorting.exe
+C:\Projects\Algorithms\Graphs\GraphSkeletsFirstLab\Graphs\02. Topological-Sorting\bin\Debug\_02.Topological_Sorting.pdb
+C:\Projects\Algorithms\Graphs\GraphSkeletsFirstLab\Graphs\02. Topological-Sorting\obj\Debug\02. Topological-Sorting.csprojResolveAssemblyReference.cache
+C:\Projects\Algorithms\Graphs\GraphSkeletsFirstLab\Graphs\02. Topological-Sorting\obj\Debug\02. Topological-Sorting.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Graphs\GraphSkeletsFirstLab\Graphs\02. Topological-Sorting\obj\Debug\_02.Topological_Sorting.exe
+C:\Projects\Algorithms\Graphs\GraphSkeletsFirstLab\Graphs\02. Topological-Sorting\obj\Debug\_02.Topological_Sorting.pdb

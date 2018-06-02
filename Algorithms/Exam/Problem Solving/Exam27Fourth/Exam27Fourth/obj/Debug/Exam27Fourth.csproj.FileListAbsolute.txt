@@ -1,0 +1,7 @@
+C:\Projects\Algorithms\Exam\Problem Solving\Exam27Fourth\Exam27Fourth\bin\Debug\Exam27Fourth.exe.config
+C:\Projects\Algorithms\Exam\Problem Solving\Exam27Fourth\Exam27Fourth\bin\Debug\Exam27Fourth.exe
+C:\Projects\Algorithms\Exam\Problem Solving\Exam27Fourth\Exam27Fourth\bin\Debug\Exam27Fourth.pdb
+C:\Projects\Algorithms\Exam\Problem Solving\Exam27Fourth\Exam27Fourth\obj\Debug\Exam27Fourth.csprojResolveAssemblyReference.cache
+C:\Projects\Algorithms\Exam\Problem Solving\Exam27Fourth\Exam27Fourth\obj\Debug\Exam27Fourth.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Exam\Problem Solving\Exam27Fourth\Exam27Fourth\obj\Debug\Exam27Fourth.exe
+C:\Projects\Algorithms\Exam\Problem Solving\Exam27Fourth\Exam27Fourth\obj\Debug\Exam27Fourth.pdb

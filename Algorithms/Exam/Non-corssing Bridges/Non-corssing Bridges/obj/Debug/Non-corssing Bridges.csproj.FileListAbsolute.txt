@@ -1,0 +1,7 @@
+C:\Projects\Algorithms\Exam\Non-corssing Bridges\Non-corssing Bridges\bin\Debug\Non-corssing Bridges.exe.config
+C:\Projects\Algorithms\Exam\Non-corssing Bridges\Non-corssing Bridges\bin\Debug\Non-corssing Bridges.exe
+C:\Projects\Algorithms\Exam\Non-corssing Bridges\Non-corssing Bridges\bin\Debug\Non-corssing Bridges.pdb
+C:\Projects\Algorithms\Exam\Non-corssing Bridges\Non-corssing Bridges\obj\Debug\Non-corssing Bridges.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Exam\Non-corssing Bridges\Non-corssing Bridges\obj\Debug\Non-corssing Bridges.exe
+C:\Projects\Algorithms\Exam\Non-corssing Bridges\Non-corssing Bridges\obj\Debug\Non-corssing Bridges.pdb
+C:\Projects\Algorithms\Exam\Non-corssing Bridges\Non-corssing Bridges\obj\Debug\Non-corssing Bridges.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Projects\Algorithms\Exam\Problem Solving\Parking Zones\Parking Zones\bin\Debug\Parking Zones.exe.config
+C:\Projects\Algorithms\Exam\Problem Solving\Parking Zones\Parking Zones\bin\Debug\Parking Zones.exe
+C:\Projects\Algorithms\Exam\Problem Solving\Parking Zones\Parking Zones\bin\Debug\Parking Zones.pdb
+C:\Projects\Algorithms\Exam\Problem Solving\Parking Zones\Parking Zones\obj\Debug\Parking Zones.csprojResolveAssemblyReference.cache
+C:\Projects\Algorithms\Exam\Problem Solving\Parking Zones\Parking Zones\obj\Debug\Parking Zones.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Exam\Problem Solving\Parking Zones\Parking Zones\obj\Debug\Parking Zones.exe
+C:\Projects\Algorithms\Exam\Problem Solving\Parking Zones\Parking Zones\obj\Debug\Parking Zones.pdb

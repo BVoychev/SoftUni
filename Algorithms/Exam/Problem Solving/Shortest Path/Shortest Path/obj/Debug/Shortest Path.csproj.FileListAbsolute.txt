@@ -1,0 +1,7 @@
+C:\Projects\Algorithms\Exam\Problem Solving\Shortest Path\Shortest Path\bin\Debug\Shortest Path.exe.config
+C:\Projects\Algorithms\Exam\Problem Solving\Shortest Path\Shortest Path\bin\Debug\Shortest Path.exe
+C:\Projects\Algorithms\Exam\Problem Solving\Shortest Path\Shortest Path\bin\Debug\Shortest Path.pdb
+C:\Projects\Algorithms\Exam\Problem Solving\Shortest Path\Shortest Path\obj\Debug\Shortest Path.csprojResolveAssemblyReference.cache
+C:\Projects\Algorithms\Exam\Problem Solving\Shortest Path\Shortest Path\obj\Debug\Shortest Path.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Exam\Problem Solving\Shortest Path\Shortest Path\obj\Debug\Shortest Path.exe
+C:\Projects\Algorithms\Exam\Problem Solving\Shortest Path\Shortest Path\obj\Debug\Shortest Path.pdb

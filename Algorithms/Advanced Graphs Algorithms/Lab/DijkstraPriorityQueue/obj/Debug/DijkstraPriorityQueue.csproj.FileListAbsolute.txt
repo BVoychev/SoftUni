@@ -1,0 +1,7 @@
+C:\Projects\Algorithms\Advanced Graphs Algorithms\Lab\DijkstraPriorityQueue\bin\Debug\Dijkstra.exe.config
+C:\Projects\Algorithms\Advanced Graphs Algorithms\Lab\DijkstraPriorityQueue\bin\Debug\Dijkstra.exe
+C:\Projects\Algorithms\Advanced Graphs Algorithms\Lab\DijkstraPriorityQueue\bin\Debug\Dijkstra.pdb
+C:\Projects\Algorithms\Advanced Graphs Algorithms\Lab\DijkstraPriorityQueue\obj\Debug\DijkstraPriorityQueue.csprojResolveAssemblyReference.cache
+C:\Projects\Algorithms\Advanced Graphs Algorithms\Lab\DijkstraPriorityQueue\obj\Debug\DijkstraPriorityQueue.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Advanced Graphs Algorithms\Lab\DijkstraPriorityQueue\obj\Debug\Dijkstra.exe
+C:\Projects\Algorithms\Advanced Graphs Algorithms\Lab\DijkstraPriorityQueue\obj\Debug\Dijkstra.pdb

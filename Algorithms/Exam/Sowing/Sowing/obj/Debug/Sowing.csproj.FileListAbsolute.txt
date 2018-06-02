@@ -1,0 +1,7 @@
+C:\Projects\Algorithms\Exam\Sowing\Sowing\bin\Debug\Sowing.exe.config
+C:\Projects\Algorithms\Exam\Sowing\Sowing\bin\Debug\Sowing.exe
+C:\Projects\Algorithms\Exam\Sowing\Sowing\bin\Debug\Sowing.pdb
+C:\Projects\Algorithms\Exam\Sowing\Sowing\obj\Debug\Sowing.csprojResolveAssemblyReference.cache
+C:\Projects\Algorithms\Exam\Sowing\Sowing\obj\Debug\Sowing.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Exam\Sowing\Sowing\obj\Debug\Sowing.exe
+C:\Projects\Algorithms\Exam\Sowing\Sowing\obj\Debug\Sowing.pdb

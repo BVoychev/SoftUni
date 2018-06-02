@@ -1,0 +1,7 @@
+C:\Projects\Algorithms\Exam\ThirdTask\ThirdTask\bin\Debug\ThirdTask.exe.config
+C:\Projects\Algorithms\Exam\ThirdTask\ThirdTask\bin\Debug\ThirdTask.exe
+C:\Projects\Algorithms\Exam\ThirdTask\ThirdTask\bin\Debug\ThirdTask.pdb
+C:\Projects\Algorithms\Exam\ThirdTask\ThirdTask\obj\Debug\ThirdTask.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Exam\ThirdTask\ThirdTask\obj\Debug\ThirdTask.exe
+C:\Projects\Algorithms\Exam\ThirdTask\ThirdTask\obj\Debug\ThirdTask.pdb
+C:\Projects\Algorithms\Exam\ThirdTask\ThirdTask\obj\Debug\ThirdTask.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Exercises\Recursion\Recursive Drawing\Recursive Drawing\Recursive Drawing\bin\Debug\Recursive Drawing.exe.config
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Exercises\Recursion\Recursive Drawing\Recursive Drawing\Recursive Drawing\bin\Debug\Recursive Drawing.exe
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Exercises\Recursion\Recursive Drawing\Recursive Drawing\Recursive Drawing\bin\Debug\Recursive Drawing.pdb
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Exercises\Recursion\Recursive Drawing\Recursive Drawing\Recursive Drawing\obj\Debug\Recursive Drawing.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Exercises\Recursion\Recursive Drawing\Recursive Drawing\Recursive Drawing\obj\Debug\Recursive Drawing.exe
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Exercises\Recursion\Recursive Drawing\Recursive Drawing\Recursive Drawing\obj\Debug\Recursive Drawing.pdb

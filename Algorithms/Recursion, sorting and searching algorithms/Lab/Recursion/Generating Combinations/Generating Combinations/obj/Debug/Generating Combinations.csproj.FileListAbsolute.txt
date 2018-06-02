@@ -1,0 +1,7 @@
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Lab\Recursion\Generating Combinations\Generating Combinations\bin\Debug\Generating Combinations.exe.config
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Lab\Recursion\Generating Combinations\Generating Combinations\bin\Debug\Generating Combinations.exe
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Lab\Recursion\Generating Combinations\Generating Combinations\bin\Debug\Generating Combinations.pdb
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Lab\Recursion\Generating Combinations\Generating Combinations\obj\Debug\Generating Combinations.csprojResolveAssemblyReference.cache
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Lab\Recursion\Generating Combinations\Generating Combinations\obj\Debug\Generating Combinations.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Lab\Recursion\Generating Combinations\Generating Combinations\obj\Debug\Generating Combinations.exe
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Lab\Recursion\Generating Combinations\Generating Combinations\obj\Debug\Generating Combinations.pdb

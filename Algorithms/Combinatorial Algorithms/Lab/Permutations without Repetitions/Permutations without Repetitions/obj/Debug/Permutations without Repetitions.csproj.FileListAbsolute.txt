@@ -1,0 +1,7 @@
+C:\Projects\Algorithms\Combinatorial Algorithms\Lab\Permutations without Repetitions\Permutations without Repetitions\bin\Debug\Permutations without Repetitions.exe.config
+C:\Projects\Algorithms\Combinatorial Algorithms\Lab\Permutations without Repetitions\Permutations without Repetitions\bin\Debug\Permutations without Repetitions.exe
+C:\Projects\Algorithms\Combinatorial Algorithms\Lab\Permutations without Repetitions\Permutations without Repetitions\bin\Debug\Permutations without Repetitions.pdb
+C:\Projects\Algorithms\Combinatorial Algorithms\Lab\Permutations without Repetitions\Permutations without Repetitions\obj\Debug\Permutations without Repetitions.csprojResolveAssemblyReference.cache
+C:\Projects\Algorithms\Combinatorial Algorithms\Lab\Permutations without Repetitions\Permutations without Repetitions\obj\Debug\Permutations without Repetitions.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Combinatorial Algorithms\Lab\Permutations without Repetitions\Permutations without Repetitions\obj\Debug\Permutations without Repetitions.exe
+C:\Projects\Algorithms\Combinatorial Algorithms\Lab\Permutations without Repetitions\Permutations without Repetitions\obj\Debug\Permutations without Repetitions.pdb

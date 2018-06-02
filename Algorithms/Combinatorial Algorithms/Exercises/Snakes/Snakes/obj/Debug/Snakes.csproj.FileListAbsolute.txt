@@ -1,0 +1,7 @@
+C:\Projects\Algorithms\Combinatorial Algorithms\Exercises\Snakes\Snakes\bin\Debug\Snakes.exe.config
+C:\Projects\Algorithms\Combinatorial Algorithms\Exercises\Snakes\Snakes\bin\Debug\Snakes.exe
+C:\Projects\Algorithms\Combinatorial Algorithms\Exercises\Snakes\Snakes\bin\Debug\Snakes.pdb
+C:\Projects\Algorithms\Combinatorial Algorithms\Exercises\Snakes\Snakes\obj\Debug\Snakes.csprojResolveAssemblyReference.cache
+C:\Projects\Algorithms\Combinatorial Algorithms\Exercises\Snakes\Snakes\obj\Debug\Snakes.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Combinatorial Algorithms\Exercises\Snakes\Snakes\obj\Debug\Snakes.exe
+C:\Projects\Algorithms\Combinatorial Algorithms\Exercises\Snakes\Snakes\obj\Debug\Snakes.pdb

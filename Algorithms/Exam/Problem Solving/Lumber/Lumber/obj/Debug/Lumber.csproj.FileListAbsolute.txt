@@ -1,0 +1,7 @@
+C:\Projects\Algorithms\Exam\Problem Solving\Lumber\Lumber\bin\Debug\Lumber.exe.config
+C:\Projects\Algorithms\Exam\Problem Solving\Lumber\Lumber\bin\Debug\Lumber.exe
+C:\Projects\Algorithms\Exam\Problem Solving\Lumber\Lumber\bin\Debug\Lumber.pdb
+C:\Projects\Algorithms\Exam\Problem Solving\Lumber\Lumber\obj\Debug\Lumber.csprojResolveAssemblyReference.cache
+C:\Projects\Algorithms\Exam\Problem Solving\Lumber\Lumber\obj\Debug\Lumber.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Exam\Problem Solving\Lumber\Lumber\obj\Debug\Lumber.exe
+C:\Projects\Algorithms\Exam\Problem Solving\Lumber\Lumber\obj\Debug\Lumber.pdb

@@ -1,0 +1,7 @@
+C:\Projects\Algorithms\Exam\Problem Solving\Parentheses\Parentheses\bin\Debug\Parentheses.exe.config
+C:\Projects\Algorithms\Exam\Problem Solving\Parentheses\Parentheses\bin\Debug\Parentheses.exe
+C:\Projects\Algorithms\Exam\Problem Solving\Parentheses\Parentheses\bin\Debug\Parentheses.pdb
+C:\Projects\Algorithms\Exam\Problem Solving\Parentheses\Parentheses\obj\Debug\Parentheses.csprojResolveAssemblyReference.cache
+C:\Projects\Algorithms\Exam\Problem Solving\Parentheses\Parentheses\obj\Debug\Parentheses.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Exam\Problem Solving\Parentheses\Parentheses\obj\Debug\Parentheses.exe
+C:\Projects\Algorithms\Exam\Problem Solving\Parentheses\Parentheses\obj\Debug\Parentheses.pdb

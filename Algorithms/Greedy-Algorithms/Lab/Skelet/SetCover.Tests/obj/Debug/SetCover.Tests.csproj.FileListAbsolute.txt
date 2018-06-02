@@ -1,0 +1,10 @@
+C:\Projects\Algorithms\Greedy-Algorithms\Lab\Skelet\SetCover.Tests\bin\Debug\SetCover.Tests.dll
+C:\Projects\Algorithms\Greedy-Algorithms\Lab\Skelet\SetCover.Tests\bin\Debug\SetCover.Tests.pdb
+C:\Projects\Algorithms\Greedy-Algorithms\Lab\Skelet\SetCover.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Projects\Algorithms\Greedy-Algorithms\Lab\Skelet\SetCover.Tests\bin\Debug\SetCover.exe
+C:\Projects\Algorithms\Greedy-Algorithms\Lab\Skelet\SetCover.Tests\bin\Debug\SetCover.pdb
+C:\Projects\Algorithms\Greedy-Algorithms\Lab\Skelet\SetCover.Tests\bin\Debug\SetCover.exe.config
+C:\Projects\Algorithms\Greedy-Algorithms\Lab\Skelet\SetCover.Tests\obj\Debug\SetCover.Tests.csprojResolveAssemblyReference.cache
+C:\Projects\Algorithms\Greedy-Algorithms\Lab\Skelet\SetCover.Tests\obj\Debug\SetCover.Tests.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Greedy-Algorithms\Lab\Skelet\SetCover.Tests\obj\Debug\SetCover.Tests.dll
+C:\Projects\Algorithms\Greedy-Algorithms\Lab\Skelet\SetCover.Tests\obj\Debug\SetCover.Tests.pdb

@@ -1,0 +1,7 @@
+C:\Projects\Algorithms\Exam\Problem Solving\SumTo13\SumTo13\bin\Debug\SumTo13.exe.config
+C:\Projects\Algorithms\Exam\Problem Solving\SumTo13\SumTo13\bin\Debug\SumTo13.exe
+C:\Projects\Algorithms\Exam\Problem Solving\SumTo13\SumTo13\bin\Debug\SumTo13.pdb
+C:\Projects\Algorithms\Exam\Problem Solving\SumTo13\SumTo13\obj\Debug\SumTo13.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Exam\Problem Solving\SumTo13\SumTo13\obj\Debug\SumTo13.exe
+C:\Projects\Algorithms\Exam\Problem Solving\SumTo13\SumTo13\obj\Debug\SumTo13.pdb
+C:\Projects\Algorithms\Exam\Problem Solving\SumTo13\SumTo13\obj\Debug\SumTo13.csprojResolveAssemblyReference.cache

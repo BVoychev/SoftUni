@@ -1,0 +1,7 @@
+C:\Projects\Algorithms\Exam\Problem Solving\Medenka\Medenka\obj\Debug\Medenka.csprojResolveAssemblyReference.cache
+C:\Projects\Algorithms\Exam\Problem Solving\Medenka\Medenka\obj\Debug\Medenka.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Exam\Problem Solving\Medenka\Medenka\bin\Debug\Medenka.exe.config
+C:\Projects\Algorithms\Exam\Problem Solving\Medenka\Medenka\bin\Debug\Medenka.exe
+C:\Projects\Algorithms\Exam\Problem Solving\Medenka\Medenka\bin\Debug\Medenka.pdb
+C:\Projects\Algorithms\Exam\Problem Solving\Medenka\Medenka\obj\Debug\Medenka.exe
+C:\Projects\Algorithms\Exam\Problem Solving\Medenka\Medenka\obj\Debug\Medenka.pdb

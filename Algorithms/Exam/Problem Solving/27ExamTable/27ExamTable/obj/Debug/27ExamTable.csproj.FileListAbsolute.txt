@@ -1,0 +1,7 @@
+C:\Projects\Algorithms\Exam\Problem Solving\27ExamTable\27ExamTable\bin\Debug\27ExamTable.exe.config
+C:\Projects\Algorithms\Exam\Problem Solving\27ExamTable\27ExamTable\bin\Debug\27ExamTable.exe
+C:\Projects\Algorithms\Exam\Problem Solving\27ExamTable\27ExamTable\bin\Debug\27ExamTable.pdb
+C:\Projects\Algorithms\Exam\Problem Solving\27ExamTable\27ExamTable\obj\Debug\27ExamTable.csprojResolveAssemblyReference.cache
+C:\Projects\Algorithms\Exam\Problem Solving\27ExamTable\27ExamTable\obj\Debug\27ExamTable.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Exam\Problem Solving\27ExamTable\27ExamTable\obj\Debug\27ExamTable.exe
+C:\Projects\Algorithms\Exam\Problem Solving\27ExamTable\27ExamTable\obj\Debug\27ExamTable.pdb

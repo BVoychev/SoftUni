@@ -1,0 +1,7 @@
+C:\Projects\Algorithms\Exam\Problem Solving\Robbery\Robbery\bin\Debug\Robbery.exe.config
+C:\Projects\Algorithms\Exam\Problem Solving\Robbery\Robbery\bin\Debug\Robbery.exe
+C:\Projects\Algorithms\Exam\Problem Solving\Robbery\Robbery\bin\Debug\Robbery.pdb
+C:\Projects\Algorithms\Exam\Problem Solving\Robbery\Robbery\obj\Debug\Robbery.csprojResolveAssemblyReference.cache
+C:\Projects\Algorithms\Exam\Problem Solving\Robbery\Robbery\obj\Debug\Robbery.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Exam\Problem Solving\Robbery\Robbery\obj\Debug\Robbery.exe
+C:\Projects\Algorithms\Exam\Problem Solving\Robbery\Robbery\obj\Debug\Robbery.pdb

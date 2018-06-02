@@ -1,0 +1,7 @@
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Excercise\Connected Areas in a Matrix\Connected Areas in a Matrix\bin\Debug\Connected Areas in a Matrix.exe.config
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Excercise\Connected Areas in a Matrix\Connected Areas in a Matrix\bin\Debug\Connected Areas in a Matrix.exe
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Excercise\Connected Areas in a Matrix\Connected Areas in a Matrix\bin\Debug\Connected Areas in a Matrix.pdb
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Excercise\Connected Areas in a Matrix\Connected Areas in a Matrix\obj\Debug\Connected Areas in a Matrix.csprojResolveAssemblyReference.cache
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Excercise\Connected Areas in a Matrix\Connected Areas in a Matrix\obj\Debug\Connected Areas in a Matrix.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Excercise\Connected Areas in a Matrix\Connected Areas in a Matrix\obj\Debug\Connected Areas in a Matrix.exe
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Excercise\Connected Areas in a Matrix\Connected Areas in a Matrix\obj\Debug\Connected Areas in a Matrix.pdb

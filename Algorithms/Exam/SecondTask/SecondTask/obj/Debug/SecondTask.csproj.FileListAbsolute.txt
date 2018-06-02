@@ -1,0 +1,7 @@
+C:\Projects\Algorithms\Exam\SecondTask\SecondTask\bin\Debug\SecondTask.exe.config
+C:\Projects\Algorithms\Exam\SecondTask\SecondTask\bin\Debug\SecondTask.exe
+C:\Projects\Algorithms\Exam\SecondTask\SecondTask\bin\Debug\SecondTask.pdb
+C:\Projects\Algorithms\Exam\SecondTask\SecondTask\obj\Debug\SecondTask.csprojResolveAssemblyReference.cache
+C:\Projects\Algorithms\Exam\SecondTask\SecondTask\obj\Debug\SecondTask.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Exam\SecondTask\SecondTask\obj\Debug\SecondTask.exe
+C:\Projects\Algorithms\Exam\SecondTask\SecondTask\obj\Debug\SecondTask.pdb

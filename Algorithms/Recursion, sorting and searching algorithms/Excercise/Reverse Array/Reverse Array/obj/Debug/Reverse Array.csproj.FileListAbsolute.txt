@@ -1,0 +1,7 @@
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Excercise\Reverse Array\Reverse Array\bin\Debug\Reverse Array.exe.config
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Excercise\Reverse Array\Reverse Array\bin\Debug\Reverse Array.exe
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Excercise\Reverse Array\Reverse Array\bin\Debug\Reverse Array.pdb
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Excercise\Reverse Array\Reverse Array\obj\Debug\Reverse Array.csprojResolveAssemblyReference.cache
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Excercise\Reverse Array\Reverse Array\obj\Debug\Reverse Array.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Excercise\Reverse Array\Reverse Array\obj\Debug\Reverse Array.exe
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Excercise\Reverse Array\Reverse Array\obj\Debug\Reverse Array.pdb

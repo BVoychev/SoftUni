@@ -1,0 +1,7 @@
+C:\Projects\Algorithms\Exam\Sequence\Sequence\obj\Debug\Sequence.csprojResolveAssemblyReference.cache
+C:\Projects\Algorithms\Exam\Sequence\Sequence\obj\Debug\Sequence.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Exam\Sequence\Sequence\bin\Debug\Sequence.exe.config
+C:\Projects\Algorithms\Exam\Sequence\Sequence\bin\Debug\Sequence.exe
+C:\Projects\Algorithms\Exam\Sequence\Sequence\bin\Debug\Sequence.pdb
+C:\Projects\Algorithms\Exam\Sequence\Sequence\obj\Debug\Sequence.exe
+C:\Projects\Algorithms\Exam\Sequence\Sequence\obj\Debug\Sequence.pdb

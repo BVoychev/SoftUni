@@ -1,0 +1,6 @@
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Excercise\Combinations with Repetition\Combinations with Repetition\bin\Debug\Combinations with Repetition.exe.config
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Excercise\Combinations with Repetition\Combinations with Repetition\bin\Debug\Combinations with Repetition.exe
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Excercise\Combinations with Repetition\Combinations with Repetition\bin\Debug\Combinations with Repetition.pdb
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Excercise\Combinations with Repetition\Combinations with Repetition\obj\Debug\Combinations with Repetition.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Excercise\Combinations with Repetition\Combinations with Repetition\obj\Debug\Combinations with Repetition.exe
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Excercise\Combinations with Repetition\Combinations with Repetition\obj\Debug\Combinations with Repetition.pdb

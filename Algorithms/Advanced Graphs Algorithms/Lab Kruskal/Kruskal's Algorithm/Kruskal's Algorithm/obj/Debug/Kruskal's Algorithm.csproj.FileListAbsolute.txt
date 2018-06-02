@@ -1,0 +1,7 @@
+C:\Projects\Algorithms\Advanced Graphs Algorithms\Lab Kruskal\Kruskal's Algorithm\Kruskal's Algorithm\bin\Debug\Kruskal's Algorithm.exe.config
+C:\Projects\Algorithms\Advanced Graphs Algorithms\Lab Kruskal\Kruskal's Algorithm\Kruskal's Algorithm\bin\Debug\Kruskal's Algorithm.exe
+C:\Projects\Algorithms\Advanced Graphs Algorithms\Lab Kruskal\Kruskal's Algorithm\Kruskal's Algorithm\bin\Debug\Kruskal's Algorithm.pdb
+C:\Projects\Algorithms\Advanced Graphs Algorithms\Lab Kruskal\Kruskal's Algorithm\Kruskal's Algorithm\obj\Debug\Kruskal's Algorithm.csprojResolveAssemblyReference.cache
+C:\Projects\Algorithms\Advanced Graphs Algorithms\Lab Kruskal\Kruskal's Algorithm\Kruskal's Algorithm\obj\Debug\Kruskal's Algorithm.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Advanced Graphs Algorithms\Lab Kruskal\Kruskal's Algorithm\Kruskal's Algorithm\obj\Debug\Kruskal's Algorithm.exe
+C:\Projects\Algorithms\Advanced Graphs Algorithms\Lab Kruskal\Kruskal's Algorithm\Kruskal's Algorithm\obj\Debug\Kruskal's Algorithm.pdb

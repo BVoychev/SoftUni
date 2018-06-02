@@ -1,0 +1,7 @@
+C:\Projects\Algorithms\Combinatorial Algorithms\Lab\Permutations with Repetition\Permutations with Repetition\bin\Debug\Permutations with Repetition.exe.config
+C:\Projects\Algorithms\Combinatorial Algorithms\Lab\Permutations with Repetition\Permutations with Repetition\bin\Debug\Permutations with Repetition.exe
+C:\Projects\Algorithms\Combinatorial Algorithms\Lab\Permutations with Repetition\Permutations with Repetition\bin\Debug\Permutations with Repetition.pdb
+C:\Projects\Algorithms\Combinatorial Algorithms\Lab\Permutations with Repetition\Permutations with Repetition\obj\Debug\Permutations with Repetition.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Combinatorial Algorithms\Lab\Permutations with Repetition\Permutations with Repetition\obj\Debug\Permutations with Repetition.exe
+C:\Projects\Algorithms\Combinatorial Algorithms\Lab\Permutations with Repetition\Permutations with Repetition\obj\Debug\Permutations with Repetition.pdb
+C:\Projects\Algorithms\Combinatorial Algorithms\Lab\Permutations with Repetition\Permutations with Repetition\obj\Debug\Permutations with Repetition.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Projects\Algorithms\Advanced Graphs Algorithms\Lab\Kurskal\obj\Debug\Kurskal.csprojResolveAssemblyReference.cache
+C:\Projects\Algorithms\Advanced Graphs Algorithms\Lab\Kurskal\obj\Debug\Kurskal.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Advanced Graphs Algorithms\Lab\Kurskal\bin\Debug\Kurskal.exe.config
+C:\Projects\Algorithms\Advanced Graphs Algorithms\Lab\Kurskal\bin\Debug\Kurskal.exe
+C:\Projects\Algorithms\Advanced Graphs Algorithms\Lab\Kurskal\bin\Debug\Kurskal.pdb
+C:\Projects\Algorithms\Advanced Graphs Algorithms\Lab\Kurskal\obj\Debug\Kurskal.exe
+C:\Projects\Algorithms\Advanced Graphs Algorithms\Lab\Kurskal\obj\Debug\Kurskal.pdb

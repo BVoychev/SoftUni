@@ -1,0 +1,7 @@
+C:\Projects\Algorithms\Dynaming Programing\Lab\LongestIncreasingSubSequence\LongestIncreasingSubSequence\bin\Debug\LongestIncreasingSubSequence.exe.config
+C:\Projects\Algorithms\Dynaming Programing\Lab\LongestIncreasingSubSequence\LongestIncreasingSubSequence\bin\Debug\LongestIncreasingSubSequence.exe
+C:\Projects\Algorithms\Dynaming Programing\Lab\LongestIncreasingSubSequence\LongestIncreasingSubSequence\bin\Debug\LongestIncreasingSubSequence.pdb
+C:\Projects\Algorithms\Dynaming Programing\Lab\LongestIncreasingSubSequence\LongestIncreasingSubSequence\obj\Debug\LongestIncreasingSubSequence.csprojResolveAssemblyReference.cache
+C:\Projects\Algorithms\Dynaming Programing\Lab\LongestIncreasingSubSequence\LongestIncreasingSubSequence\obj\Debug\LongestIncreasingSubSequence.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Dynaming Programing\Lab\LongestIncreasingSubSequence\LongestIncreasingSubSequence\obj\Debug\LongestIncreasingSubSequence.exe
+C:\Projects\Algorithms\Dynaming Programing\Lab\LongestIncreasingSubSequence\LongestIncreasingSubSequence\obj\Debug\LongestIncreasingSubSequence.pdb

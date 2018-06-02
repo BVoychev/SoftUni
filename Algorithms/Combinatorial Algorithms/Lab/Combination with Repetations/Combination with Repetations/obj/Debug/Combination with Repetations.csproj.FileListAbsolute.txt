@@ -1,0 +1,6 @@
+C:\Projects\Algorithms\Combinatorial Algorithms\Lab\Combination with Repetations\Combination with Repetations\bin\Debug\Combination with Repetations.exe.config
+C:\Projects\Algorithms\Combinatorial Algorithms\Lab\Combination with Repetations\Combination with Repetations\bin\Debug\Combination with Repetations.exe
+C:\Projects\Algorithms\Combinatorial Algorithms\Lab\Combination with Repetations\Combination with Repetations\bin\Debug\Combination with Repetations.pdb
+C:\Projects\Algorithms\Combinatorial Algorithms\Lab\Combination with Repetations\Combination with Repetations\obj\Debug\Combination with Repetations.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Combinatorial Algorithms\Lab\Combination with Repetations\Combination with Repetations\obj\Debug\Combination with Repetations.exe
+C:\Projects\Algorithms\Combinatorial Algorithms\Lab\Combination with Repetations\Combination with Repetations\obj\Debug\Combination with Repetations.pdb

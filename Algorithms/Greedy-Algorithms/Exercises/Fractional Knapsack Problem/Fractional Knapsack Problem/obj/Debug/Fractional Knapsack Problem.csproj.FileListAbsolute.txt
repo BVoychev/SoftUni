@@ -1,0 +1,9 @@
+C:\Projects\Algorithms\Greedy-Algorithms\Exercises\Fractional Knapsack Problem\Fractional Knapsack Problem\bin\Debug\Fractional Knapsack Problem.exe.config
+C:\Projects\Algorithms\Greedy-Algorithms\Exercises\Fractional Knapsack Problem\Fractional Knapsack Problem\bin\Debug\Fractional Knapsack Problem.exe
+C:\Projects\Algorithms\Greedy-Algorithms\Exercises\Fractional Knapsack Problem\Fractional Knapsack Problem\bin\Debug\Fractional Knapsack Problem.pdb
+C:\Projects\Algorithms\Greedy-Algorithms\Exercises\Fractional Knapsack Problem\Fractional Knapsack Problem\obj\Debug\Fractional Knapsack Problem.csprojResolveAssemblyReference.cache
+C:\Projects\Algorithms\Greedy-Algorithms\Exercises\Fractional Knapsack Problem\Fractional Knapsack Problem\obj\Debug\Fractional Knapsack Problem.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Greedy-Algorithms\Exercises\Fractional Knapsack Problem\Fractional Knapsack Problem\obj\Debug\Fractional Knapsack Problem.exe
+C:\Projects\Algorithms\Greedy-Algorithms\Exercises\Fractional Knapsack Problem\Fractional Knapsack Problem\obj\Debug\Fractional Knapsack Problem.pdb
+C:\Projects\Algorithms\Greedy-Algorithms\Exercises\Fractional Knapsack Problem\Fractional Knapsack Problem\bin\Debug\PowerCollections.dll
+C:\Projects\Algorithms\Greedy-Algorithms\Exercises\Fractional Knapsack Problem\Fractional Knapsack Problem\bin\Debug\PowerCollections.xml

@@ -1,0 +1,9 @@
+C:\Projects\Algorithms\Advanced Graphs Algorithms\Prim's with Priority Queue\Prim's with Priority Queue\Prim's with Priority Queue\obj\Debug\Prim's with Priority Queue.csprojResolveAssemblyReference.cache
+C:\Projects\Algorithms\Advanced Graphs Algorithms\Prim's with Priority Queue\Prim's with Priority Queue\Prim's with Priority Queue\obj\Debug\Prim's with Priority Queue.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Advanced Graphs Algorithms\Prim's with Priority Queue\Prim's with Priority Queue\Prim's with Priority Queue\bin\Debug\Prim's with Priority Queue.exe.config
+C:\Projects\Algorithms\Advanced Graphs Algorithms\Prim's with Priority Queue\Prim's with Priority Queue\Prim's with Priority Queue\bin\Debug\Prim's with Priority Queue.exe
+C:\Projects\Algorithms\Advanced Graphs Algorithms\Prim's with Priority Queue\Prim's with Priority Queue\Prim's with Priority Queue\bin\Debug\Prim's with Priority Queue.pdb
+C:\Projects\Algorithms\Advanced Graphs Algorithms\Prim's with Priority Queue\Prim's with Priority Queue\Prim's with Priority Queue\bin\Debug\PowerCollections.dll
+C:\Projects\Algorithms\Advanced Graphs Algorithms\Prim's with Priority Queue\Prim's with Priority Queue\Prim's with Priority Queue\bin\Debug\PowerCollections.xml
+C:\Projects\Algorithms\Advanced Graphs Algorithms\Prim's with Priority Queue\Prim's with Priority Queue\Prim's with Priority Queue\obj\Debug\Prim's with Priority Queue.exe
+C:\Projects\Algorithms\Advanced Graphs Algorithms\Prim's with Priority Queue\Prim's with Priority Queue\Prim's with Priority Queue\obj\Debug\Prim's with Priority Queue.pdb

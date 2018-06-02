@@ -1,0 +1,6 @@
+C:\Projects\Algorithms\Graphs\BFS\BFS\BFS\bin\Debug\BFS.exe.config
+C:\Projects\Algorithms\Graphs\BFS\BFS\BFS\bin\Debug\BFS.exe
+C:\Projects\Algorithms\Graphs\BFS\BFS\BFS\bin\Debug\BFS.pdb
+C:\Projects\Algorithms\Graphs\BFS\BFS\BFS\obj\Debug\BFS.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Graphs\BFS\BFS\BFS\obj\Debug\BFS.exe
+C:\Projects\Algorithms\Graphs\BFS\BFS\BFS\obj\Debug\BFS.pdb

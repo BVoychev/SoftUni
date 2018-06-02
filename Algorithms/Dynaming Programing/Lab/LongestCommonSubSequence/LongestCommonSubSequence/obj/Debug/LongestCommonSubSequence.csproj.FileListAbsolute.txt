@@ -1,0 +1,6 @@
+C:\Projects\Algorithms\Dynaming Programing\Lab\LongestCommonSubSequence\LongestCommonSubSequence\bin\Debug\LongestCommonSubSequence.exe.config
+C:\Projects\Algorithms\Dynaming Programing\Lab\LongestCommonSubSequence\LongestCommonSubSequence\bin\Debug\LongestCommonSubSequence.exe
+C:\Projects\Algorithms\Dynaming Programing\Lab\LongestCommonSubSequence\LongestCommonSubSequence\bin\Debug\LongestCommonSubSequence.pdb
+C:\Projects\Algorithms\Dynaming Programing\Lab\LongestCommonSubSequence\LongestCommonSubSequence\obj\Debug\LongestCommonSubSequence.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Dynaming Programing\Lab\LongestCommonSubSequence\LongestCommonSubSequence\obj\Debug\LongestCommonSubSequence.exe
+C:\Projects\Algorithms\Dynaming Programing\Lab\LongestCommonSubSequence\LongestCommonSubSequence\obj\Debug\LongestCommonSubSequence.pdb

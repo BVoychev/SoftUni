@@ -1,0 +1,6 @@
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Exercises\Recursion\Generating 01 Vectors\Generating 01 Vectors\bin\Debug\Generating 01 Vectors.exe.config
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Exercises\Recursion\Generating 01 Vectors\Generating 01 Vectors\bin\Debug\Generating 01 Vectors.exe
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Exercises\Recursion\Generating 01 Vectors\Generating 01 Vectors\bin\Debug\Generating 01 Vectors.pdb
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Exercises\Recursion\Generating 01 Vectors\Generating 01 Vectors\obj\Debug\Generating 01 Vectors.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Exercises\Recursion\Generating 01 Vectors\Generating 01 Vectors\obj\Debug\Generating 01 Vectors.exe
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Exercises\Recursion\Generating 01 Vectors\Generating 01 Vectors\obj\Debug\Generating 01 Vectors.pdb

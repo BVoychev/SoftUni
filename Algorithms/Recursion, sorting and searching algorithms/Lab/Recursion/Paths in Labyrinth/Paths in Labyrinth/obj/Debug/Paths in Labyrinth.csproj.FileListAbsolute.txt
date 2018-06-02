@@ -1,0 +1,7 @@
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Lab\Recursion\Paths in Labyrinth\Paths in Labyrinth\bin\Debug\Paths in Labyrinth.exe.config
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Lab\Recursion\Paths in Labyrinth\Paths in Labyrinth\bin\Debug\Paths in Labyrinth.exe
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Lab\Recursion\Paths in Labyrinth\Paths in Labyrinth\bin\Debug\Paths in Labyrinth.pdb
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Lab\Recursion\Paths in Labyrinth\Paths in Labyrinth\obj\Debug\Paths in Labyrinth.csprojResolveAssemblyReference.cache
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Lab\Recursion\Paths in Labyrinth\Paths in Labyrinth\obj\Debug\Paths in Labyrinth.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Lab\Recursion\Paths in Labyrinth\Paths in Labyrinth\obj\Debug\Paths in Labyrinth.exe
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Lab\Recursion\Paths in Labyrinth\Paths in Labyrinth\obj\Debug\Paths in Labyrinth.pdb

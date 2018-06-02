@@ -1,0 +1,15 @@
+C:\Projects\Chaos Group\Conway’s Game of Life\Conway’s Game of Life\bin\Debug\Conway’s Game of Life.exe.config
+C:\Projects\Chaos Group\Conway’s Game of Life\Conway’s Game of Life\bin\Debug\Conway’s Game of Life.exe
+C:\Projects\Chaos Group\Conway’s Game of Life\Conway’s Game of Life\bin\Debug\Conway’s Game of Life.pdb
+C:\Projects\Chaos Group\Conway’s Game of Life\Conway’s Game of Life\obj\Debug\Conway’s Game of Life.csprojResolveAssemblyReference.cache
+C:\Projects\Chaos Group\Conway’s Game of Life\Conway’s Game of Life\obj\Debug\MainWindow.g.cs
+C:\Projects\Chaos Group\Conway’s Game of Life\Conway’s Game of Life\obj\Debug\App.g.cs
+C:\Projects\Chaos Group\Conway’s Game of Life\Conway’s Game of Life\obj\Debug\Conway’s Game of Life_MarkupCompile.cache
+C:\Projects\Chaos Group\Conway’s Game of Life\Conway’s Game of Life\obj\Debug\Conway’s Game of Life_MarkupCompile.lref
+C:\Projects\Chaos Group\Conway’s Game of Life\Conway’s Game of Life\obj\Debug\MainWindow.baml
+C:\Projects\Chaos Group\Conway’s Game of Life\Conway’s Game of Life\obj\Debug\Conway’s Game of Life.g.resources
+C:\Projects\Chaos Group\Conway’s Game of Life\Conway’s Game of Life\obj\Debug\Conway_s_Game_of_Life.Properties.Resources.resources
+C:\Projects\Chaos Group\Conway’s Game of Life\Conway’s Game of Life\obj\Debug\Conway’s Game of Life.csproj.GenerateResource.Cache
+C:\Projects\Chaos Group\Conway’s Game of Life\Conway’s Game of Life\obj\Debug\Conway’s Game of Life.csproj.CoreCompileInputs.cache
+C:\Projects\Chaos Group\Conway’s Game of Life\Conway’s Game of Life\obj\Debug\Conway’s Game of Life.exe
+C:\Projects\Chaos Group\Conway’s Game of Life\Conway’s Game of Life\obj\Debug\Conway’s Game of Life.pdb

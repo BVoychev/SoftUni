@@ -1,0 +1,7 @@
+C:\Projects\Algorithms\Exam\Tour de Sofia\Tour de Sofia\bin\Debug\Tour de Sofia.exe.config
+C:\Projects\Algorithms\Exam\Tour de Sofia\Tour de Sofia\bin\Debug\Tour de Sofia.exe
+C:\Projects\Algorithms\Exam\Tour de Sofia\Tour de Sofia\bin\Debug\Tour de Sofia.pdb
+C:\Projects\Algorithms\Exam\Tour de Sofia\Tour de Sofia\obj\Debug\Tour de Sofia.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Exam\Tour de Sofia\Tour de Sofia\obj\Debug\Tour de Sofia.exe
+C:\Projects\Algorithms\Exam\Tour de Sofia\Tour de Sofia\obj\Debug\Tour de Sofia.pdb
+C:\Projects\Algorithms\Exam\Tour de Sofia\Tour de Sofia\obj\Debug\Tour de Sofia.csprojResolveAssemblyReference.cache

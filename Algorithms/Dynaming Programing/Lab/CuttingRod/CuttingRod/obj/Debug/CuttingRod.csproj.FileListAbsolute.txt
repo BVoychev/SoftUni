@@ -1,0 +1,7 @@
+C:\Projects\Algorithms\Dynaming Programing\Lab\CuttingRod\CuttingRod\bin\Debug\CuttingRod.exe.config
+C:\Projects\Algorithms\Dynaming Programing\Lab\CuttingRod\CuttingRod\bin\Debug\CuttingRod.exe
+C:\Projects\Algorithms\Dynaming Programing\Lab\CuttingRod\CuttingRod\bin\Debug\CuttingRod.pdb
+C:\Projects\Algorithms\Dynaming Programing\Lab\CuttingRod\CuttingRod\obj\Debug\CuttingRod.csprojResolveAssemblyReference.cache
+C:\Projects\Algorithms\Dynaming Programing\Lab\CuttingRod\CuttingRod\obj\Debug\CuttingRod.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Dynaming Programing\Lab\CuttingRod\CuttingRod\obj\Debug\CuttingRod.exe
+C:\Projects\Algorithms\Dynaming Programing\Lab\CuttingRod\CuttingRod\obj\Debug\CuttingRod.pdb

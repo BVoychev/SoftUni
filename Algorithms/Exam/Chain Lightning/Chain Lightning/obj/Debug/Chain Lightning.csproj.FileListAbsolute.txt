@@ -1,0 +1,9 @@
+C:\Projects\Algorithms\Exam\Chain Lightning\Chain Lightning\bin\Debug\Chain Lightning.exe.config
+C:\Projects\Algorithms\Exam\Chain Lightning\Chain Lightning\bin\Debug\Chain Lightning.exe
+C:\Projects\Algorithms\Exam\Chain Lightning\Chain Lightning\bin\Debug\Chain Lightning.pdb
+C:\Projects\Algorithms\Exam\Chain Lightning\Chain Lightning\obj\Debug\Chain Lightning.csprojResolveAssemblyReference.cache
+C:\Projects\Algorithms\Exam\Chain Lightning\Chain Lightning\obj\Debug\Chain Lightning.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Exam\Chain Lightning\Chain Lightning\obj\Debug\Chain Lightning.exe
+C:\Projects\Algorithms\Exam\Chain Lightning\Chain Lightning\obj\Debug\Chain Lightning.pdb
+C:\Projects\Algorithms\Exam\Chain Lightning\Chain Lightning\bin\Debug\PowerCollections.dll
+C:\Projects\Algorithms\Exam\Chain Lightning\Chain Lightning\bin\Debug\PowerCollections.xml

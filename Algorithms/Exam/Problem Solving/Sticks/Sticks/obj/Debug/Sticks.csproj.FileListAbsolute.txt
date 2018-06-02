@@ -1,0 +1,7 @@
+C:\Projects\Algorithms\Exam\Problem Solving\Sticks\Sticks\bin\Debug\Sticks.exe.config
+C:\Projects\Algorithms\Exam\Problem Solving\Sticks\Sticks\bin\Debug\Sticks.exe
+C:\Projects\Algorithms\Exam\Problem Solving\Sticks\Sticks\bin\Debug\Sticks.pdb
+C:\Projects\Algorithms\Exam\Problem Solving\Sticks\Sticks\obj\Debug\Sticks.csprojResolveAssemblyReference.cache
+C:\Projects\Algorithms\Exam\Problem Solving\Sticks\Sticks\obj\Debug\Sticks.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Exam\Problem Solving\Sticks\Sticks\obj\Debug\Sticks.exe
+C:\Projects\Algorithms\Exam\Problem Solving\Sticks\Sticks\obj\Debug\Sticks.pdb

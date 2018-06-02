@@ -1,0 +1,7 @@
+C:\Projects\Algorithms\Exam\FirstExam\FirstExam\bin\Debug\FirstExam.exe.config
+C:\Projects\Algorithms\Exam\FirstExam\FirstExam\bin\Debug\FirstExam.exe
+C:\Projects\Algorithms\Exam\FirstExam\FirstExam\bin\Debug\FirstExam.pdb
+C:\Projects\Algorithms\Exam\FirstExam\FirstExam\obj\Debug\FirstExam.csprojResolveAssemblyReference.cache
+C:\Projects\Algorithms\Exam\FirstExam\FirstExam\obj\Debug\FirstExam.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Exam\FirstExam\FirstExam\obj\Debug\FirstExam.exe
+C:\Projects\Algorithms\Exam\FirstExam\FirstExam\obj\Debug\FirstExam.pdb

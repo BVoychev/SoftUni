@@ -1,0 +1,7 @@
+C:\Projects\Algorithms\Greedy-Algorithms\Exercises\Best Lectures Schedule\Best Lectures Schedule\bin\Debug\Best Lectures Schedule.exe.config
+C:\Projects\Algorithms\Greedy-Algorithms\Exercises\Best Lectures Schedule\Best Lectures Schedule\bin\Debug\Best Lectures Schedule.exe
+C:\Projects\Algorithms\Greedy-Algorithms\Exercises\Best Lectures Schedule\Best Lectures Schedule\bin\Debug\Best Lectures Schedule.pdb
+C:\Projects\Algorithms\Greedy-Algorithms\Exercises\Best Lectures Schedule\Best Lectures Schedule\obj\Debug\Best Lectures Schedule.csprojResolveAssemblyReference.cache
+C:\Projects\Algorithms\Greedy-Algorithms\Exercises\Best Lectures Schedule\Best Lectures Schedule\obj\Debug\Best Lectures Schedule.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Greedy-Algorithms\Exercises\Best Lectures Schedule\Best Lectures Schedule\obj\Debug\Best Lectures Schedule.exe
+C:\Projects\Algorithms\Greedy-Algorithms\Exercises\Best Lectures Schedule\Best Lectures Schedule\obj\Debug\Best Lectures Schedule.pdb

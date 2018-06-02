@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shop Keeper", "Shop Keeper\Shop Keeper.csproj", "{4B7722E2-FFA9-41D9-A241-E1A5A357552A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B7722E2-FFA9-41D9-A241-E1A5A357552A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B7722E2-FFA9-41D9-A241-E1A5A357552A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B7722E2-FFA9-41D9-A241-E1A5A357552A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B7722E2-FFA9-41D9-A241-E1A5A357552A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6631D025-03A1-4F67-BBA0-4FAAE733BBDF}
+	EndGlobalSection
+EndGlobal

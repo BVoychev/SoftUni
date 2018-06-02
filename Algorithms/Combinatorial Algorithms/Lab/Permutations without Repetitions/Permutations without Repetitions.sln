@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Permutations without Repetitions", "Permutations without Repetitions\Permutations without Repetitions.csproj", "{1E85CEF0-22DA-44C8-A8F5-C8DDB8147F5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E85CEF0-22DA-44C8-A8F5-C8DDB8147F5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E85CEF0-22DA-44C8-A8F5-C8DDB8147F5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E85CEF0-22DA-44C8-A8F5-C8DDB8147F5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E85CEF0-22DA-44C8-A8F5-C8DDB8147F5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DB2D1E7-FA37-409D-A65F-4D120352CAFF}
+	EndGlobalSection
+EndGlobal

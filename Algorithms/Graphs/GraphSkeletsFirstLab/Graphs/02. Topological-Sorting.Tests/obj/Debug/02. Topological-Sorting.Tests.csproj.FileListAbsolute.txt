@@ -1,0 +1,10 @@
+C:\Projects\Algorithms\Graphs\GraphSkeletsFirstLab\Graphs\02. Topological-Sorting.Tests\bin\Debug\_02.Topological_Sorting.Tests.dll
+C:\Projects\Algorithms\Graphs\GraphSkeletsFirstLab\Graphs\02. Topological-Sorting.Tests\bin\Debug\_02.Topological_Sorting.Tests.pdb
+C:\Projects\Algorithms\Graphs\GraphSkeletsFirstLab\Graphs\02. Topological-Sorting.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Projects\Algorithms\Graphs\GraphSkeletsFirstLab\Graphs\02. Topological-Sorting.Tests\bin\Debug\_02.Topological_Sorting.exe
+C:\Projects\Algorithms\Graphs\GraphSkeletsFirstLab\Graphs\02. Topological-Sorting.Tests\bin\Debug\_02.Topological_Sorting.pdb
+C:\Projects\Algorithms\Graphs\GraphSkeletsFirstLab\Graphs\02. Topological-Sorting.Tests\bin\Debug\_02.Topological_Sorting.exe.config
+C:\Projects\Algorithms\Graphs\GraphSkeletsFirstLab\Graphs\02. Topological-Sorting.Tests\obj\Debug\02. Topological-Sorting.Tests.csprojResolveAssemblyReference.cache
+C:\Projects\Algorithms\Graphs\GraphSkeletsFirstLab\Graphs\02. Topological-Sorting.Tests\obj\Debug\02. Topological-Sorting.Tests.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Graphs\GraphSkeletsFirstLab\Graphs\02. Topological-Sorting.Tests\obj\Debug\_02.Topological_Sorting.Tests.dll
+C:\Projects\Algorithms\Graphs\GraphSkeletsFirstLab\Graphs\02. Topological-Sorting.Tests\obj\Debug\_02.Topological_Sorting.Tests.pdb

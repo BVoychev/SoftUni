@@ -1,0 +1,7 @@
+C:\Projects\Algorithms\Greedy-Algorithms\Exercises\Processor Scheduling\Processor Scheduling\bin\Debug\Processor Scheduling.exe.config
+C:\Projects\Algorithms\Greedy-Algorithms\Exercises\Processor Scheduling\Processor Scheduling\bin\Debug\Processor Scheduling.exe
+C:\Projects\Algorithms\Greedy-Algorithms\Exercises\Processor Scheduling\Processor Scheduling\bin\Debug\Processor Scheduling.pdb
+C:\Projects\Algorithms\Greedy-Algorithms\Exercises\Processor Scheduling\Processor Scheduling\obj\Debug\Processor Scheduling.csprojResolveAssemblyReference.cache
+C:\Projects\Algorithms\Greedy-Algorithms\Exercises\Processor Scheduling\Processor Scheduling\obj\Debug\Processor Scheduling.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Greedy-Algorithms\Exercises\Processor Scheduling\Processor Scheduling\obj\Debug\Processor Scheduling.exe
+C:\Projects\Algorithms\Greedy-Algorithms\Exercises\Processor Scheduling\Processor Scheduling\obj\Debug\Processor Scheduling.pdb

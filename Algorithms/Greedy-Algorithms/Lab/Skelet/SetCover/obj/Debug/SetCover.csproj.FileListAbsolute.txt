@@ -1,0 +1,7 @@
+C:\Projects\Algorithms\Greedy-Algorithms\Lab\Skelet\SetCover\bin\Debug\SetCover.exe.config
+C:\Projects\Algorithms\Greedy-Algorithms\Lab\Skelet\SetCover\bin\Debug\SetCover.exe
+C:\Projects\Algorithms\Greedy-Algorithms\Lab\Skelet\SetCover\bin\Debug\SetCover.pdb
+C:\Projects\Algorithms\Greedy-Algorithms\Lab\Skelet\SetCover\obj\Debug\SetCover.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Greedy-Algorithms\Lab\Skelet\SetCover\obj\Debug\SetCover.exe
+C:\Projects\Algorithms\Greedy-Algorithms\Lab\Skelet\SetCover\obj\Debug\SetCover.pdb
+C:\Projects\Algorithms\Greedy-Algorithms\Lab\Skelet\SetCover\obj\Debug\SetCover.csprojResolveAssemblyReference.cache

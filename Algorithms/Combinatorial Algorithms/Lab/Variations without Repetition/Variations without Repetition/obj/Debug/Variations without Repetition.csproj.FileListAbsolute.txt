@@ -1,0 +1,7 @@
+C:\Projects\Algorithms\Combinatorial Algorithms\Lab\Variations without Repetition\Variations without Repetition\bin\Debug\Variations without Repetition.exe.config
+C:\Projects\Algorithms\Combinatorial Algorithms\Lab\Variations without Repetition\Variations without Repetition\bin\Debug\Variations without Repetition.exe
+C:\Projects\Algorithms\Combinatorial Algorithms\Lab\Variations without Repetition\Variations without Repetition\bin\Debug\Variations without Repetition.pdb
+C:\Projects\Algorithms\Combinatorial Algorithms\Lab\Variations without Repetition\Variations without Repetition\obj\Debug\Variations without Repetition.csprojResolveAssemblyReference.cache
+C:\Projects\Algorithms\Combinatorial Algorithms\Lab\Variations without Repetition\Variations without Repetition\obj\Debug\Variations without Repetition.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Combinatorial Algorithms\Lab\Variations without Repetition\Variations without Repetition\obj\Debug\Variations without Repetition.exe
+C:\Projects\Algorithms\Combinatorial Algorithms\Lab\Variations without Repetition\Variations without Repetition\obj\Debug\Variations without Repetition.pdb

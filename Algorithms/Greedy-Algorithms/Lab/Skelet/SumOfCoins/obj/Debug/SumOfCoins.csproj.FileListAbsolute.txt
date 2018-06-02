@@ -1,0 +1,7 @@
+C:\Projects\Algorithms\Greedy-Algorithms\Lab\Skelet\SumOfCoins\bin\Debug\SumOfCoins.exe.config
+C:\Projects\Algorithms\Greedy-Algorithms\Lab\Skelet\SumOfCoins\bin\Debug\SumOfCoins.exe
+C:\Projects\Algorithms\Greedy-Algorithms\Lab\Skelet\SumOfCoins\bin\Debug\SumOfCoins.pdb
+C:\Projects\Algorithms\Greedy-Algorithms\Lab\Skelet\SumOfCoins\obj\Debug\SumOfCoins.csprojResolveAssemblyReference.cache
+C:\Projects\Algorithms\Greedy-Algorithms\Lab\Skelet\SumOfCoins\obj\Debug\SumOfCoins.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Greedy-Algorithms\Lab\Skelet\SumOfCoins\obj\Debug\SumOfCoins.exe
+C:\Projects\Algorithms\Greedy-Algorithms\Lab\Skelet\SumOfCoins\obj\Debug\SumOfCoins.pdb

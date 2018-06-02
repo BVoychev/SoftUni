@@ -1,0 +1,7 @@
+C:\Projects\Algorithms\Exam\Problem Solving\Elections\Elections\bin\Debug\Elections.exe.config
+C:\Projects\Algorithms\Exam\Problem Solving\Elections\Elections\bin\Debug\Elections.exe
+C:\Projects\Algorithms\Exam\Problem Solving\Elections\Elections\bin\Debug\Elections.pdb
+C:\Projects\Algorithms\Exam\Problem Solving\Elections\Elections\obj\Debug\Elections.csprojResolveAssemblyReference.cache
+C:\Projects\Algorithms\Exam\Problem Solving\Elections\Elections\obj\Debug\Elections.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Exam\Problem Solving\Elections\Elections\obj\Debug\Elections.exe
+C:\Projects\Algorithms\Exam\Problem Solving\Elections\Elections\obj\Debug\Elections.pdb

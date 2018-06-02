@@ -1,0 +1,7 @@
+C:\Projects\Algorithms\Graphs\DFS\DFS\DFS\bin\Debug\DFS.exe.config
+C:\Projects\Algorithms\Graphs\DFS\DFS\DFS\bin\Debug\DFS.exe
+C:\Projects\Algorithms\Graphs\DFS\DFS\DFS\bin\Debug\DFS.pdb
+C:\Projects\Algorithms\Graphs\DFS\DFS\DFS\obj\Debug\DFS.csprojResolveAssemblyReference.cache
+C:\Projects\Algorithms\Graphs\DFS\DFS\DFS\obj\Debug\DFS.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Graphs\DFS\DFS\DFS\obj\Debug\DFS.exe
+C:\Projects\Algorithms\Graphs\DFS\DFS\DFS\obj\Debug\DFS.pdb

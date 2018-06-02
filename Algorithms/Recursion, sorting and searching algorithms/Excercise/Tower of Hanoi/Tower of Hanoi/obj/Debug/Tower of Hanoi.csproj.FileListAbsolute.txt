@@ -1,0 +1,7 @@
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Excercise\Tower of Hanoi\Tower of Hanoi\bin\Debug\Tower of Hanoi.exe.config
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Excercise\Tower of Hanoi\Tower of Hanoi\bin\Debug\Tower of Hanoi.exe
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Excercise\Tower of Hanoi\Tower of Hanoi\bin\Debug\Tower of Hanoi.pdb
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Excercise\Tower of Hanoi\Tower of Hanoi\obj\Debug\Tower of Hanoi.csprojResolveAssemblyReference.cache
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Excercise\Tower of Hanoi\Tower of Hanoi\obj\Debug\Tower of Hanoi.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Excercise\Tower of Hanoi\Tower of Hanoi\obj\Debug\Tower of Hanoi.exe
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Excercise\Tower of Hanoi\Tower of Hanoi\obj\Debug\Tower of Hanoi.pdb

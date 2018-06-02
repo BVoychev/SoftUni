@@ -1,0 +1,10 @@
+C:\Projects\Algorithms\Advanced Graphs Algorithms\Lab\Kruskal.Tests\obj\Debug\Kruskal.Tests.csprojResolveAssemblyReference.cache
+C:\Projects\Algorithms\Advanced Graphs Algorithms\Lab\Kruskal.Tests\obj\Debug\Kruskal.Tests.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Advanced Graphs Algorithms\Lab\Kruskal.Tests\bin\Debug\Kruskal.Tests.dll
+C:\Projects\Algorithms\Advanced Graphs Algorithms\Lab\Kruskal.Tests\bin\Debug\Kruskal.Tests.pdb
+C:\Projects\Algorithms\Advanced Graphs Algorithms\Lab\Kruskal.Tests\bin\Debug\Kurskal.exe
+C:\Projects\Algorithms\Advanced Graphs Algorithms\Lab\Kruskal.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Projects\Algorithms\Advanced Graphs Algorithms\Lab\Kruskal.Tests\bin\Debug\Kurskal.pdb
+C:\Projects\Algorithms\Advanced Graphs Algorithms\Lab\Kruskal.Tests\bin\Debug\Kurskal.exe.config
+C:\Projects\Algorithms\Advanced Graphs Algorithms\Lab\Kruskal.Tests\obj\Debug\Kruskal.Tests.dll
+C:\Projects\Algorithms\Advanced Graphs Algorithms\Lab\Kruskal.Tests\obj\Debug\Kruskal.Tests.pdb

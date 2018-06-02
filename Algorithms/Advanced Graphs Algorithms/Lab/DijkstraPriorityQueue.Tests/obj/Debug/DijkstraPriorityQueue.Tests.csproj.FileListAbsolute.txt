@@ -1,0 +1,10 @@
+C:\Projects\Algorithms\Advanced Graphs Algorithms\Lab\DijkstraPriorityQueue.Tests\bin\Debug\Dijkstra.Tests.dll
+C:\Projects\Algorithms\Advanced Graphs Algorithms\Lab\DijkstraPriorityQueue.Tests\bin\Debug\Dijkstra.Tests.pdb
+C:\Projects\Algorithms\Advanced Graphs Algorithms\Lab\DijkstraPriorityQueue.Tests\bin\Debug\Dijkstra.exe
+C:\Projects\Algorithms\Advanced Graphs Algorithms\Lab\DijkstraPriorityQueue.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Projects\Algorithms\Advanced Graphs Algorithms\Lab\DijkstraPriorityQueue.Tests\bin\Debug\Dijkstra.pdb
+C:\Projects\Algorithms\Advanced Graphs Algorithms\Lab\DijkstraPriorityQueue.Tests\bin\Debug\Dijkstra.exe.config
+C:\Projects\Algorithms\Advanced Graphs Algorithms\Lab\DijkstraPriorityQueue.Tests\obj\Debug\DijkstraPriorityQueue.Tests.csprojResolveAssemblyReference.cache
+C:\Projects\Algorithms\Advanced Graphs Algorithms\Lab\DijkstraPriorityQueue.Tests\obj\Debug\DijkstraPriorityQueue.Tests.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Advanced Graphs Algorithms\Lab\DijkstraPriorityQueue.Tests\obj\Debug\Dijkstra.Tests.dll
+C:\Projects\Algorithms\Advanced Graphs Algorithms\Lab\DijkstraPriorityQueue.Tests\obj\Debug\Dijkstra.Tests.pdb

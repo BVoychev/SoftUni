@@ -1,0 +1,7 @@
+C:\Projects\Algorithms\Graphs\Topological Sorting\Topological Sorting\Topological Sorting\bin\Debug\Topological Sorting.exe.config
+C:\Projects\Algorithms\Graphs\Topological Sorting\Topological Sorting\Topological Sorting\bin\Debug\Topological Sorting.exe
+C:\Projects\Algorithms\Graphs\Topological Sorting\Topological Sorting\Topological Sorting\bin\Debug\Topological Sorting.pdb
+C:\Projects\Algorithms\Graphs\Topological Sorting\Topological Sorting\Topological Sorting\obj\Debug\Topological Sorting.csprojResolveAssemblyReference.cache
+C:\Projects\Algorithms\Graphs\Topological Sorting\Topological Sorting\Topological Sorting\obj\Debug\Topological Sorting.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Graphs\Topological Sorting\Topological Sorting\Topological Sorting\obj\Debug\Topological Sorting.exe
+C:\Projects\Algorithms\Graphs\Topological Sorting\Topological Sorting\Topological Sorting\obj\Debug\Topological Sorting.pdb

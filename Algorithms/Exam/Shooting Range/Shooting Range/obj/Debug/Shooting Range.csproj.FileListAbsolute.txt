@@ -1,0 +1,7 @@
+C:\Projects\Algorithms\Exam\Shooting Range\Shooting Range\bin\Debug\Shooting Range.exe.config
+C:\Projects\Algorithms\Exam\Shooting Range\Shooting Range\bin\Debug\Shooting Range.exe
+C:\Projects\Algorithms\Exam\Shooting Range\Shooting Range\bin\Debug\Shooting Range.pdb
+C:\Projects\Algorithms\Exam\Shooting Range\Shooting Range\obj\Debug\Shooting Range.csprojResolveAssemblyReference.cache
+C:\Projects\Algorithms\Exam\Shooting Range\Shooting Range\obj\Debug\Shooting Range.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Exam\Shooting Range\Shooting Range\obj\Debug\Shooting Range.exe
+C:\Projects\Algorithms\Exam\Shooting Range\Shooting Range\obj\Debug\Shooting Range.pdb

@@ -1,0 +1,7 @@
+C:\Projects\Algorithms\Exam\Problem Solving\TourDeSofia2\TourDeSofia2\bin\Debug\TourDeSofia2.exe.config
+C:\Projects\Algorithms\Exam\Problem Solving\TourDeSofia2\TourDeSofia2\bin\Debug\TourDeSofia2.exe
+C:\Projects\Algorithms\Exam\Problem Solving\TourDeSofia2\TourDeSofia2\bin\Debug\TourDeSofia2.pdb
+C:\Projects\Algorithms\Exam\Problem Solving\TourDeSofia2\TourDeSofia2\obj\Debug\TourDeSofia2.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Exam\Problem Solving\TourDeSofia2\TourDeSofia2\obj\Debug\TourDeSofia2.exe
+C:\Projects\Algorithms\Exam\Problem Solving\TourDeSofia2\TourDeSofia2\obj\Debug\TourDeSofia2.pdb
+C:\Projects\Algorithms\Exam\Problem Solving\TourDeSofia2\TourDeSofia2\obj\Debug\TourDeSofia2.csprojResolveAssemblyReference.cache

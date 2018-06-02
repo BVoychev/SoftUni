@@ -1,0 +1,6 @@
+C:\Projects\Algorithms\Combinatorial Algorithms\Lab\N Choose K Count\N Choose K Count\bin\Debug\N Choose K Count.exe.config
+C:\Projects\Algorithms\Combinatorial Algorithms\Lab\N Choose K Count\N Choose K Count\bin\Debug\N Choose K Count.exe
+C:\Projects\Algorithms\Combinatorial Algorithms\Lab\N Choose K Count\N Choose K Count\bin\Debug\N Choose K Count.pdb
+C:\Projects\Algorithms\Combinatorial Algorithms\Lab\N Choose K Count\N Choose K Count\obj\Debug\N Choose K Count.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Combinatorial Algorithms\Lab\N Choose K Count\N Choose K Count\obj\Debug\N Choose K Count.exe
+C:\Projects\Algorithms\Combinatorial Algorithms\Lab\N Choose K Count\N Choose K Count\obj\Debug\N Choose K Count.pdb

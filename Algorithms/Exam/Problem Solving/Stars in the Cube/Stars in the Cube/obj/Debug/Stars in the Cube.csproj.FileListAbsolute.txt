@@ -1,0 +1,7 @@
+C:\Projects\Algorithms\Exam\Problem Solving\Stars in the Cube\Stars in the Cube\bin\Debug\Stars in the Cube.exe.config
+C:\Projects\Algorithms\Exam\Problem Solving\Stars in the Cube\Stars in the Cube\bin\Debug\Stars in the Cube.exe
+C:\Projects\Algorithms\Exam\Problem Solving\Stars in the Cube\Stars in the Cube\bin\Debug\Stars in the Cube.pdb
+C:\Projects\Algorithms\Exam\Problem Solving\Stars in the Cube\Stars in the Cube\obj\Debug\Stars in the Cube.csprojResolveAssemblyReference.cache
+C:\Projects\Algorithms\Exam\Problem Solving\Stars in the Cube\Stars in the Cube\obj\Debug\Stars in the Cube.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Exam\Problem Solving\Stars in the Cube\Stars in the Cube\obj\Debug\Stars in the Cube.exe
+C:\Projects\Algorithms\Exam\Problem Solving\Stars in the Cube\Stars in the Cube\obj\Debug\Stars in the Cube.pdb

@@ -1,0 +1,6 @@
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Exercises\Recursion\Recursive Factorial\Recursive Factorial\Recursive Factorial\bin\Debug\Recursive Factorial.exe.config
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Exercises\Recursion\Recursive Factorial\Recursive Factorial\Recursive Factorial\bin\Debug\Recursive Factorial.exe
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Exercises\Recursion\Recursive Factorial\Recursive Factorial\Recursive Factorial\bin\Debug\Recursive Factorial.pdb
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Exercises\Recursion\Recursive Factorial\Recursive Factorial\Recursive Factorial\obj\Debug\Recursive Factorial.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Exercises\Recursion\Recursive Factorial\Recursive Factorial\Recursive Factorial\obj\Debug\Recursive Factorial.exe
+C:\Projects\Algorithms\Recursion, sorting and searching algorithms\Exercises\Recursion\Recursive Factorial\Recursive Factorial\Recursive Factorial\obj\Debug\Recursive Factorial.pdb

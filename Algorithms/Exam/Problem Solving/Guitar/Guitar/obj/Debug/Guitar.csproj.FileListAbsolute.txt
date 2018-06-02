@@ -1,0 +1,7 @@
+C:\Projects\Algorithms\Exam\Problem Solving\Guitar\Guitar\bin\Debug\Guitar.exe.config
+C:\Projects\Algorithms\Exam\Problem Solving\Guitar\Guitar\bin\Debug\Guitar.exe
+C:\Projects\Algorithms\Exam\Problem Solving\Guitar\Guitar\bin\Debug\Guitar.pdb
+C:\Projects\Algorithms\Exam\Problem Solving\Guitar\Guitar\obj\Debug\Guitar.csprojResolveAssemblyReference.cache
+C:\Projects\Algorithms\Exam\Problem Solving\Guitar\Guitar\obj\Debug\Guitar.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Exam\Problem Solving\Guitar\Guitar\obj\Debug\Guitar.exe
+C:\Projects\Algorithms\Exam\Problem Solving\Guitar\Guitar\obj\Debug\Guitar.pdb

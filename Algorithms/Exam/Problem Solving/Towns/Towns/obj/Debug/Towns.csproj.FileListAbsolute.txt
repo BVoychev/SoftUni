@@ -1,0 +1,7 @@
+C:\Projects\Algorithms\Exam\Problem Solving\Towns\Towns\obj\Debug\Towns.csprojResolveAssemblyReference.cache
+C:\Projects\Algorithms\Exam\Problem Solving\Towns\Towns\obj\Debug\Towns.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Exam\Problem Solving\Towns\Towns\bin\Debug\Towns.exe.config
+C:\Projects\Algorithms\Exam\Problem Solving\Towns\Towns\bin\Debug\Towns.exe
+C:\Projects\Algorithms\Exam\Problem Solving\Towns\Towns\bin\Debug\Towns.pdb
+C:\Projects\Algorithms\Exam\Problem Solving\Towns\Towns\obj\Debug\Towns.exe
+C:\Projects\Algorithms\Exam\Problem Solving\Towns\Towns\obj\Debug\Towns.pdb

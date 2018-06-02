@@ -1,0 +1,6 @@
+C:\Projects\Algorithms\Combinatorial Algorithms\Lab\Variations with Repetition\Variations with Repetition\bin\Debug\Variations with Repetition.exe.config
+C:\Projects\Algorithms\Combinatorial Algorithms\Lab\Variations with Repetition\Variations with Repetition\bin\Debug\Variations with Repetition.exe
+C:\Projects\Algorithms\Combinatorial Algorithms\Lab\Variations with Repetition\Variations with Repetition\bin\Debug\Variations with Repetition.pdb
+C:\Projects\Algorithms\Combinatorial Algorithms\Lab\Variations with Repetition\Variations with Repetition\obj\Debug\Variations with Repetition.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Combinatorial Algorithms\Lab\Variations with Repetition\Variations with Repetition\obj\Debug\Variations with Repetition.exe
+C:\Projects\Algorithms\Combinatorial Algorithms\Lab\Variations with Repetition\Variations with Repetition\obj\Debug\Variations with Repetition.pdb

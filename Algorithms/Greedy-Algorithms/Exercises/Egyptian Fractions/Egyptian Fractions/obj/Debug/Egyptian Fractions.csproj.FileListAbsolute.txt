@@ -1,0 +1,6 @@
+C:\Projects\Algorithms\Greedy-Algorithms\Exercises\Egyptian Fractions\Egyptian Fractions\bin\Debug\Egyptian Fractions.exe.config
+C:\Projects\Algorithms\Greedy-Algorithms\Exercises\Egyptian Fractions\Egyptian Fractions\bin\Debug\Egyptian Fractions.exe
+C:\Projects\Algorithms\Greedy-Algorithms\Exercises\Egyptian Fractions\Egyptian Fractions\bin\Debug\Egyptian Fractions.pdb
+C:\Projects\Algorithms\Greedy-Algorithms\Exercises\Egyptian Fractions\Egyptian Fractions\obj\Debug\Egyptian Fractions.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Greedy-Algorithms\Exercises\Egyptian Fractions\Egyptian Fractions\obj\Debug\Egyptian Fractions.exe
+C:\Projects\Algorithms\Greedy-Algorithms\Exercises\Egyptian Fractions\Egyptian Fractions\obj\Debug\Egyptian Fractions.pdb

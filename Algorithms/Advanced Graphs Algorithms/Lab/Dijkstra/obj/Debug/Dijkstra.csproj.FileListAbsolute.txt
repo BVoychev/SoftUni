@@ -1,0 +1,7 @@
+C:\Projects\Algorithms\Advanced Graphs Algorithms\Lab\Dijkstra\bin\Debug\Dijkstra.exe.config
+C:\Projects\Algorithms\Advanced Graphs Algorithms\Lab\Dijkstra\bin\Debug\Dijkstra.exe
+C:\Projects\Algorithms\Advanced Graphs Algorithms\Lab\Dijkstra\bin\Debug\Dijkstra.pdb
+C:\Projects\Algorithms\Advanced Graphs Algorithms\Lab\Dijkstra\obj\Debug\Dijkstra.csprojResolveAssemblyReference.cache
+C:\Projects\Algorithms\Advanced Graphs Algorithms\Lab\Dijkstra\obj\Debug\Dijkstra.csproj.CoreCompileInputs.cache
+C:\Projects\Algorithms\Advanced Graphs Algorithms\Lab\Dijkstra\obj\Debug\Dijkstra.exe
+C:\Projects\Algorithms\Advanced Graphs Algorithms\Lab\Dijkstra\obj\Debug\Dijkstra.pdb
